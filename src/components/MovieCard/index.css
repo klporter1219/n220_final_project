@@ -1,0 +1,21 @@
+.movie-card {
+  width: 33vw;
+  display: inline-block;
+  height: 100vh;
+  cursor: pointer;
+}
+
+.movie-poster {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  transition: all .25s;
+}
+
+.movie-card:hover .movie-poster,
+.movie-card:focus .movie-poster {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 20px black;
+}

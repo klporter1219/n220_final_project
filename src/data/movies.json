@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Onward",
+    "released": 2021,
+    "poster": "https://i.redd.it/k39doh612d131.jpg",
+    "description": "In a suburban fantasy world, two teenage elf brothers, Ian and Barley Lightfoot, go on a journey to discover if there is still a little magic left out there in order to spend one last day with their father, who died when they were too young to remember him. Like any good quest, their journey is filled with magic spells, cryptic maps, impossible obstacles and unimaginable discoveries. When the boys' fearless mom, Laurel, realizes that her sons are missing, she teams up with the legendary winged-lion-scorpion former warrior -- The Manticore -- and heads off to find them. Perilous curses aside, this one magical day could mean more than any of them ever dreamed",
+    "color": "#242f8f",
+    "main_characters": [
+      {
+        "name": "Ian Lightfoot",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flumiere-a.akamaihd.net%2Fv1%2Fimages%2Fct_onward_ian_18790_60e7debf.jpeg",
+        "see_more": "https://disney.fandom.com/wiki/Ian_Lightfoot"
+      },
+      {
+        "name": "Barley Lightfoot",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Fbbaaf1b6c08f101bcce8eb5c27d5beec%2F77a5585ecf6c4baa-50%2Fs640x960%2F1e3ab619b0a4f49fb94c7281fd7d29dd35f8c43b.jpg",
+        "see_more": "https://disney.fandom.com/wiki/Barley_Lightfoot"
+      },
+      {
+        "name": "Laurel Lightfoot",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flumiere-a.akamaihd.net%2Fv1%2Fimages%2Fct_onward_mom_18790_4f9fdbe1.jpeg",
+        "see_more": "https://disney.fandom.com/wiki/Laurel_Lightfoot"
+      }
+    ]
+  },
+  {
+    "title": "Luca",
+    "description": "A young boy experiences an unforgettable seaside summer on the Italian Riviera filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, but all the fun is threatened by a deeply-held secret: he is a sea monster from another world just below the ocean's surface.",
+    "released": 2021,
+    "poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs.movieinsider.com%2Fimages%2Fp%2F588597_m1619626477.jpg",
+    "color": "#12c6f0",
+    "main_characters": [
+      {
+        "name": "Luca Paguro",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.66eMbtWscNgwF40kRaG7UwAAAA%26pid%3DApi&f=1",
+        "see_more": "https://disney.fandom.com/wiki/Luca_Paguro"
+      },
+      {
+        "name": "Alberto Scorfano",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F64.media.tumblr.com%2F2ff2af7321d5a553cc89a9aa27dc506f%2F87226f7f59eaf194-c2%2Fs640x960%2F86d4b9d8259d54fad17fed49dffaaa5c63ad0227.jpg",
+        "see_more": "https://disney.fandom.com/wiki/Alberto_Scorfano"
+      },
+      {
+        "name": "Giulia Marcovaldo",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F64.media.tumblr.com%2Fe181c4e2390d3f427c36d5e4a178711a%2Ff323f2c138f3aa9e-d7%2Fs1280x1920%2F2262511f31670830209f256dc0955b2398b1e003.jpg",
+        "see_more": "https://disney.fandom.com/wiki/Giulia_Marcovaldo"
+      }
+    ]
+  },
+  {
+    "title": "Soul",
+    "description": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz -- and he's good. But when he travels to another realm to help someone find their passion, he soon discovers what it means to have soul.",
+    "released": 2020,
+    "poster": "https://www.geekalerts.com/u/Pixar-Soul-Movie-Poster.jpg",
+    "color": "#032757",
+    "main_characters": [
+      {
+        "name": "Joe Gardner",
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.tvtropes.org%2Fpmwiki%2Fpub%2Fimages%2Fjoe_gardner.png",
+        "see_more": "https://disney.fandom.com/wiki/Joe_Gardner"
+      },
+      {
+        "name": "22",
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.epicstream.com%2Fassets%2Fuploads%2Fckeditor%2Fimages%2F1609264442_22disneyssoul.png",
+        "see_more": "https://disney.fandom.com/wiki/22"
+      }
+    ]
+  }
+]
